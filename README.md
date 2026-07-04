@@ -48,7 +48,7 @@ I engineer predictive frameworks and intelligent systems optimized for real-worl
 *   Developed a deployment-ready classification architecture utilizing automated `StandardScaler` transformations and linear optimization to predict success metrics. 
 *   Eliminated exploratory notebook clutter by modularizing execution blocks for clean system testing.
 
-### 🛒 [Customer Shopping Analytics Pipeline](https://github.com/Piuu-17/Customer_Shopping_Analysis)
+###  [Customer Shopping Analytics Pipeline](https://github.com/Piuu-17/Customer_Shopping_Analysis)
 > **Core Domain:** E-Commerce Intelligence & Behavioral Pattern Segmentation
 *   Designed an enterprise-standard analytical pipeline parsing user purchase cycles and tracking database behavior patterns to expose market funnel drop-offs.
 
