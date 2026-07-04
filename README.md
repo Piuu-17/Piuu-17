@@ -19,7 +19,7 @@ I engineer predictive frameworks and intelligent systems optimized for real-worl
 
 
 
-## 🏭 Industrial AI & Research Impact
+##  Industrial AI & Research Impact
 
 ### **Research Intern | Tata Steel R&D**
 *   **Predictive ML Pipelines:** Engineered end-to-end data analytics and non-linear predictive machine learning pipelines to analyze complex manufacturing parameters for resistance spot welding systems.
