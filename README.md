@@ -1,6 +1,6 @@
 # Hello Techies! This is Piu Chatterjee 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/piu-chatterjee?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [![Email](https://img.shields.io/badge/Email-cpihu3289%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cpihu3289@gmail.com)
 
@@ -35,15 +35,15 @@ I engineer predictive frameworks and intelligent systems optimized for real-worl
 *   **Global Top 6.5% | HackerRank SQL:** Achieved **Gold Badge** status and **Intermediate Certification**, ranking within the top ~200,000 out of over 3.1 Million international developers.
 *   **National Semi-Finalist | The Economic Times Campus Stars:** Evaluated and shortlisted among elite national engineering minds for analytical aptitude and systemic reasoning.
 
-\
 
-## 🛠️ Featured AI & Data Pipelines
 
-### 📦 [Resistance Spot Welding Data Analysis](https://github.com/Piuu-17/Resistance_spot_welding_dataanalysis)
+##  Featured AI & Data Pipelines
+
+###  [Resistance Spot Welding Data Analysis](https://github.com/Piuu-17/Resistance_spot_welding_dataanalysis)
 > **Core Domain:** Industrial Machine Learning & Predictive Modeling
 *   Built a custom statistical analytics pipeline to map complex, multi-variable structural parameters into actionable predictive data models.
 
-### 🎓 [Student Placement Classification Pipeline](https://github.com/Piuu-17/student-placement-prediction)
+###  [Student Placement Classification Pipeline](https://github.com/Piuu-17/student-placement-prediction)
 > **Core Domain:** Scikit-Learn Pipeline Engineering & Classification Algorithms
 *   Developed a deployment-ready classification architecture utilizing automated `StandardScaler` transformations and linear optimization to predict success metrics. 
 *   Eliminated exploratory notebook clutter by modularizing execution blocks for clean system testing.
