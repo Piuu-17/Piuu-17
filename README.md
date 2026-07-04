@@ -1,6 +1,6 @@
 # Hello Techies! This is Piu Chatterjee 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/piu-chatterjee?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/piu-chatterjee)
 
 [![Email](https://img.shields.io/badge/Email-cpihu3289%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cpihu3289@gmail.com)
 
