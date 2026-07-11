@@ -27,7 +27,7 @@ I engineer predictive frameworks and intelligent systems optimized for real-worl
 *   **Scientific Presentation:** Selected as the **youngest researcher nationally** to present independent data-driven intelligence systems at the prestigious **CSIR-NML BTTD Conference**.
 
 
-##  Elite Corporate & National Achievements
+##  Corporate & National Achievements
 
 *   **National Finalist | Women Ideathon 'UDBHAVA 3.0' (Chitkara University, Telangana):** Advanced to the national final stage by architecting deep analytical solutions to solve structural, cross-domain bottlenecks.
 *   **Round 1 Qualifier | Hero Campus Challenge Season 10:** Cleared the hyper-competitive corporate engineering assessment, outperforming thousands of national teams in technical problem-solving logic.
